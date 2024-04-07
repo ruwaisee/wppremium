@@ -1,0 +1,182 @@
+html {
+  margin-top: 0;
+}
+.intro h3 p {
+  color: white;
+}
+
+.btn {
+  width: 95%;
+  background-color: orangered;
+  border-radius: 0.5;
+  color: #e6eeff;
+}
+hr {
+  color: black;
+}
+.c-white {
+  color: white;
+}
+.c-black {
+  color: black;
+}
+.c-orange {
+  color: #df2500;
+}
+.c-blue {
+  color: rgba(12, 42, 105, 0.66);
+}
+.bg-blue-1 {
+  background-color: #213f99;
+}
+.bg-white {
+  background-color: whitesmoke;
+}
+.bg-blue-2 {
+  background-color: #e6eeff;
+}
+.bg-red {
+  background-color: red;
+}
+
+.red {
+  color: red;
+}
+
+.col-95 {
+  width: 95%;
+}
+.col-90 {
+  width: 90%;
+}
+.col-75 {
+  width: 75%;
+}
+.col-70 {
+  width: 70%;
+}
+.col-30 {
+  width: 30%;
+}
+.col-10 {
+  width: 10%;
+}
+
+.MA {
+  margin: auto;
+}
+.MT--0 {
+  margin-top: 0rem;
+}
+.MB--0 {
+  margin-bottom: 0rem;
+}
+.ML--0 {
+  margin-left: 0rem;
+}
+.ML--0-5 {
+  margin-left: 0.5rem;
+}
+.ML--1 {
+  margin-left: 1rem;
+}
+.ML--3 {
+  margin-left: 3rem;
+}
+
+.MT--35 {
+  margin-top: 35px;
+}
+.MT--15 {
+  margin-top: 15px;
+}
+
+.MTB {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.BR {
+  border-radius: 0.5rem;
+}
+.BR--50 {
+  border-radius: 50%;
+}
+.BR {
+  border-radius: 0.5rem;
+}
+
+.flex {
+  display: flex;
+}
+.flex img {
+  width: 30%;
+}
+.block {
+  display: block;
+}
+
+.instructor {
+  font-weight: 300;
+}
+
+.intro h3 p {
+  color: white;
+}
+
+.col-md-8 {
+  padding: 0px;
+}
+
+.col-md-6 {
+  padding: 0px 0px;
+}
+
+.fs--sm {
+  font-size: small;
+  margin-top: 35px;
+}
+.fs--m {
+  font-size: medium;
+}
+
+.fs--xl {
+  font-size: x-large;
+}
+.fs--l {
+  font-size: large;
+}
+
+.ML--15 {
+  margin-left: 15px;
+}
+.ff--roboto {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.montserat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+}
+
+@media screen {
+  html {
+    margin-top: 0ch !important;
+  }
+}
+@media screen and (max-width: 782px) {
+  html {
+    margin-top: 0px !important;
+  }
+}

@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../wppremium"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#e2dd4f",
+			"activityBar.background": "#289dd799",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#e3e2c7",
+			"activityBarBadge.foreground": "#15202b",
+			"commandCenter.border": "#15202b99",
+			"sash.hoverBorder": "#53b1df",
+			"statusBar.background": "#289dd7",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#207eac",
+			"statusBarItem.remoteBackground": "#e2dd4f",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#289dd7",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#289dd799",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"editor.fontWeight": "normal",
+		"window.zoomLevel": 1,
+		"editor.fontSize": 16,
+		"editor.fontFamily": "Fira code"
+	}
+}
